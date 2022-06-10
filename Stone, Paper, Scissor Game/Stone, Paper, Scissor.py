@@ -1,6 +1,4 @@
-from logging.config import stopListening
 import random
-from this import s
 
 def Game(comp, you):
     if (comp==you):
